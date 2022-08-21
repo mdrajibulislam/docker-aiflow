@@ -129,4 +129,11 @@ dmypy.json
 .pyre/
 .DS_Store
 .idea
+# *.iml
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
 
